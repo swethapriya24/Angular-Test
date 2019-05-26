@@ -1,0 +1,9 @@
+git add README.md
+git add --all
+
+git commit -m "login"
+
+git config --global user.name "your user name"
+git config --global user.email  "your email"
+
+git push
