@@ -7,3 +7,11 @@ git config --global user.name "your user name"
 git config --global user.email  "your email"
 
 git push
+
+
+
+
+Angular steps
+
+npm install -g @angular/cli
+ng new projectname
